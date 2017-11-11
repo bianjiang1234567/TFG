@@ -1,0 +1,12 @@
+__pycache__
+*.txt
+
+#Folders
+venv
+test
+tutorials
+reports
+docs
+src
+notebooks/.ipynb_checkpoints
+notebooks/logs
