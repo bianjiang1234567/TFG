@@ -10,3 +10,4 @@ docs
 src
 notebooks/.ipynb_checkpoints
 notebooks/logs
+models
